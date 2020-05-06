@@ -7,6 +7,4 @@ I do not own ANY of the code in this repository! Krunker.io, the source code, as
 > Please note that this code isn't owned by me but Yendis Entertainment. They own the Krunker.io game and code and I do not. I don't feel like getting sued over a GitHub Repostiory so I'm here to say this is just a repository for learning purposes of the game and I don't mean to cause any problems with the game and other things.
 
 # Current Game Version
-The current game version as of the date 5/6/2020 is the version "v2.3.6" on the Krunker.io website. The code is from the game version 2.3.6 of the game and is available to view and download.
-
-- Version v2.3.6
+- Version: v2.3.6
