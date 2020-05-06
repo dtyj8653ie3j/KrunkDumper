@@ -8,3 +8,4 @@ I do not own ANY of the code in this repository! Krunker.io, the source code, as
 
 # Current Game Version
 - Version: v2.3.6
+- Last Checked: 5/6/2020
